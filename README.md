@@ -1,5 +1,5 @@
 <h1>HTML5-Tetris-Recreation</h1>
-<h2>Made by Liang Liu July 2016<h2>
+<h2>Made by Liang Liu July 2016</h2>
 <p>Made with javascript/HTML5 Canvas</p>
 <p>visit <a href="http://stuffbyliang.com">my website</a> for more projects and to see my web design service :)</p>
 <hr>
