@@ -30,13 +30,6 @@
 <hr>
 <h3>Controls</h3>
 <ul>
-  <li>Playable tetris game</li>
-  <li>Ability to record game and replay games</li>
-  <li>Multiplayer abilities to play against past saved replays</li>
-</ul>
-<hr>
-<h3>Controls</h3>
-<ul>
   <li>[UP] to rotate piece clockwise, [CTRL] to rotate piece counter-clockwise</li>
   <li>Press [LEFT] or [RIGHT] to move the piece left once. Hold to move the piece the furthest it can go in that direction.</li>
   <li>Press [SHIFT] to put current piece in queue, or to access the current piece in queue.</li>
