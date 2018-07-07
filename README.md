@@ -9,6 +9,13 @@
   <li>Ability to record game and replay games</li>
   <li>Multiplayer abilities to play against past saved replays</li>
 </ul>
+<h3>Skills Used to Create This</h3>
+<ul>
+  <li>Features Object-Oriented Javascript Programming</li>
+  <li>Features HTML 5 Canvas</li>
+  <li>Semi-carefully commented code</li>
+  <li>Neat and organized code format</li>
+</ul>
 <hr>
 <h3>How to Play/Install</h3>
 <ol>
